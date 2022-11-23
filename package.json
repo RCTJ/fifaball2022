@@ -1,0 +1,18 @@
+{
+  "name": "fifaball2022",
+  "main": "./lib/fifaball2022",
+  "version": "1.0.0",
+  "description": "สุดยิ่งใหญ่ สำหรับ พิธีการ เปิด บอลโลก 2022 หรือ FIFA World Cup Qatar 2022",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "fifaball2022:toggle"
+  },
+  "repository": "https://github.com/RCTJ/fifaball2022",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

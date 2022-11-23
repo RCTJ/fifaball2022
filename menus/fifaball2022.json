@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fifaball2022",
+        "command": "fifaball2022:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fifaball2022",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fifaball2022:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
